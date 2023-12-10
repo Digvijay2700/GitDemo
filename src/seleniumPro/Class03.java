@@ -1,0 +1,29 @@
+package seleniumPro;
+
+public class Class03 {
+
+	public static void main(String[] args) {
+
+       int[] arr = new int[5];
+       arr[0] = 1;
+       arr[1] = 2;
+       arr[2] = 3;
+       arr[3] = 4;
+       arr[4] = 5;
+       
+       
+       int[] arr2 = {9,8,7,6,5};
+       
+       System.out.println(arr[3]);
+       
+       System.out.println(arr2[3]);
+       
+       
+       String[] name = {"digvijay", "patil", "selenium", "training"};
+       
+       System.out.println(name[1]);
+       
+
+	}
+
+}
